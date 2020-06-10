@@ -7,6 +7,6 @@
 2. Use collaborative filtering to build a recommender system for movies.
 
 
-For more specifications, see: ex8.pdf file (https://github.com/vshakun/machine-learning-ex7/blob/master/ex7.pdf)
+For more specifications, see: ex8.pdf file (https://github.com/vshakun/machine-learning-ex8/blob/master/ex8.pdf)
 Programming Language: MatLab <br/>
 Professor: Andrew Ng 
